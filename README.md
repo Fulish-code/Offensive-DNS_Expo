@@ -51,8 +51,8 @@ La idea central de esta demo:
 │   └── monitor_dns.py   # Sniffer que captura y reconstruye los datos (Scapy)
 ├── victim/
 │   └── malware.sh       # Simula el malware que exfiltra el archivo vía DNS
-├── presentacion/        # Diapositivas y PDF de la exposición
-├── video/               # Vídeo explicativo y recursos gráficos
+├── presentacion/        # PDF de la exposición
+├── video/               # Recursos gráficos del vídeo
 └── README.md
 ```
 
@@ -153,8 +153,8 @@ Algunas contramedidas:
 
 ## Material de la exposición
 
-- `presentacion/`: diapositivas (`.pptx`) y PDF de la charla.
-- `video/exfiltracion-dns_1080p60.mp4`: vídeo explicativo de la demostración.
+- `presentacion/`: PDF de la charla.
+- **Vídeo explicativo de la demostración**: https://youtu.be/iJMdp_mJT-0
 
 ---
 
