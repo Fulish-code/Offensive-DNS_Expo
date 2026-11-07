@@ -52,7 +52,6 @@ La idea central de esta demo:
 ├── victim/
 │   └── malware.sh       # Simula el malware que exfiltra el archivo vía DNS
 ├── presentacion/        # PDF de la exposición
-├── video/               # Recursos gráficos del vídeo
 └── README.md
 ```
 
