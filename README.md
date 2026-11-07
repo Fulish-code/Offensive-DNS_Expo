@@ -153,8 +153,8 @@ Algunas contramedidas:
 
 ## Material de la exposición
 
-- `presentacion/` — diapositivas (`.pptx`) y PDF de la charla.
-- `video/exfiltracion-dns_1080p60.mp4` — vídeo explicativo de la demostración.
+- `presentacion/`: diapositivas (`.pptx`) y PDF de la charla.
+- `video/exfiltracion-dns_1080p60.mp4`: vídeo explicativo de la demostración.
 
 ---
 
